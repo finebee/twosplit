@@ -1847,6 +1847,13 @@
     yargs "15.4.1"
     yargs-parser "20.0.0"
 
+"@nx-go/nx-go@^2.0.0":
+  version "2.0.0"
+  resolved "https://registry.yarnpkg.com/@nx-go/nx-go/-/nx-go-2.0.0.tgz#1725bfa194fe485ec3802958e9cbb8993e055db9"
+  integrity sha512-edrAon4h0sy/JMPYe2xX7KIL9ZpPCXfW+d2QjB/OEwszxbHuxsmkpsDT3a8OS0P8fJuxOWBooqE0FTjvyw2pgA==
+  dependencies:
+    fs-extra "^9.1.0"
+
 "@parcel/watcher@2.0.4":
   version "2.0.4"
   resolved "https://registry.yarnpkg.com/@parcel/watcher/-/watcher-2.0.4.tgz#f300fef4cc38008ff4b8c29d92588eced3ce014b"
